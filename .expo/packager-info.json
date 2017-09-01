@@ -1,5 +1,8 @@
 {
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 31792
+  "expoServerPort": 19001,
+  "packagerPort": 19002,
+  "packagerPid": 31968,
+  "expoServerNgrokUrl": "https://mj-mj7.lcharvol.sdmx-native.exp.direct",
+  "packagerNgrokUrl": "https://packager.mj-mj7.lcharvol.sdmx-native.exp.direct",
+  "ngrokPid": 31993
 }
